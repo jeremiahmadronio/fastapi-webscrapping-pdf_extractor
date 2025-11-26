@@ -4,9 +4,9 @@ A FastAPI-based web scraper that extracts and parses Daily Price Index (DPI) PDF
 
 ## 🚀 Live API
 
-**Base URL:** `https://fastapi-webscrapping-pdfextractor-production.up.railway.app`
-
-**Interactive Docs:** [/docs](https://fastapi-webscrapping-pdfextractor-production.up.railway.app/docs)
+* **Production URL:** `https://fastapi-webscrapping-pdfextractor-production.up.railway.app`
+* **Swagger Documentation:** [/docs](https://fastapi-webscrapping-pdfextractor-production.up.railway.app/docs)
+* **ReDoc Specification:** [/redoc](https://fastapi-webscrapping-pdfextractor-production.up.railway.app/redoc)
 
 ---
 
